@@ -1,6 +1,6 @@
 "use client"
 
-import { useStore } from "@/lib/store"
+import { useStore } from "../../lib/store"
 
 export default function KuechePage() {
   const { orders, setReady } = useStore()

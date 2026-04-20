@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { useParams, useRouter } from "next/navigation"
-import { useStore } from "@/lib/store"
+import { useStore } from "../../../../lib/store"
 import { products } from "@/lib/products"
 
 const categories = [

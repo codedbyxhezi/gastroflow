@@ -10,7 +10,7 @@ export default function KuechePage() {
   )
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-[#020617] to-[#0f172a] text-white p-8">
+    <div className="min-h-screen bg-gradient-to-br from-[#0f172a] via-[#020617] to-black text-white p-6">
 
       <h1 className="text-4xl mb-8 font-bold">Küche</h1>
 

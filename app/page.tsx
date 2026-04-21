@@ -10,7 +10,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center gap-6 bg-gray-100">
       <h1 className="text-4xl font-bold">🍽️ Gastroflow</h1>
 
-      <p className="text-gray-600">
+      <p className="text-gray-601">
         Aktive Bestellungen: {Object.keys(orders).length}
       </p>
 
